@@ -6,8 +6,8 @@ A "hello world" implementation of Behat testing using PhantomJS.
 
 Make sure the following are installed on your system:
 
-1. [Node.js, NPM](http://nodejs.org/), and [Grunt](http://gruntjs.com/installing-grunt) for build script.
-2. [Composer](https://getcomposer.org/doc/00-intro.md) for PHP dependencies.
+1. [Node.js and NPM](http://nodejs.org/) for installing PhantomJS.
+2. [Composer](https://getcomposer.org/doc/00-intro.md) for installing Behat and related packages.
 
 Then, install the PHP and JS components:
 

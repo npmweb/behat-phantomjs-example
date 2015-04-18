@@ -1,0 +1,7 @@
+{
+  "name": "Behat-PhantomJS-Example",
+  "version": "0.1.0",
+  "devDependencies": {
+    "phantomjs": "^1.9.16"
+  }
+}

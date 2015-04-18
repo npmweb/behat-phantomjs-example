@@ -1,0 +1,10 @@
+{
+  "name": "npmweb/behat-phantomjs-example",
+  "description": "Behat-PhantomJS Example",
+  "license": "MIT",
+  "require-dev": {
+    "behat/behat": "^3.0",
+    "behat/mink-extension": "^2.0",
+    "behat/mink-selenium2-driver":  "^1.1"
+  }
+}

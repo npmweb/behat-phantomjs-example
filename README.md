@@ -27,3 +27,7 @@ Then, install the PHP and JS components:
 - Run the Behat test
     - In a third terminal, run `vendor/bin/behat`
     - The output should confirm that all steps pass, including the one that says "Then I should see "Yes, JavaScript is running!""
+
+# License
+
+This application is open-sourced under the MIT license. See the `LICENSE` file for more details.
